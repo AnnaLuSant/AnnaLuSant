@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Pacman animation](https://raw.githubusercontent.com/AnnaLuSant/AnnaLuSant/output/pacman.svg)
+
 <!--
 **AnnaLuSant/AnnaLuSant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
