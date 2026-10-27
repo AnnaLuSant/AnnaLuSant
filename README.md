@@ -6,6 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hii!!++I'm+Anna+Luiza+%F0%9F%A7%A0%E2%9C%A8)](https://git.io/typing-svg)
 
 ###
+###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C34BF7&width=435&lines=Seja+bem-vindo%28a%29+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" />
