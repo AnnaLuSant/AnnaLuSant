@@ -13,7 +13,6 @@
 Por aqui, compartilho um pouco da minha trajetória no mundo da tecnologia, reunindo projetos, experiências, desafios e conhecimentos que adquiro ao longo do caminho.
 
 #
-### 🚀 Bora aprender juntos?
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" />
@@ -24,7 +23,7 @@ Por aqui, compartilho um pouco da minha trajetória no mundo da tecnologia, reun
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" />
 </div>
-
+### 🚀 Bora aprender juntos?
 ###
 
 <picture>
