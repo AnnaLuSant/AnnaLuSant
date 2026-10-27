@@ -23,8 +23,9 @@ Por aqui, compartilho um pouco da minha trajetória no mundo da tecnologia, reun
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" />
 </div>
+
 ### 🚀 Bora aprender juntos?
-###
+#
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnnaLuSant/AnnaLuSant/output/pacman-contribution-graph-dark.svg">
