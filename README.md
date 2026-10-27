@@ -3,8 +3,7 @@
 </div>
 
 ###
-
-<h2 align="left">Hii!!  I'm Anna Luiza 🧠✨</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hii!!++I'm+Anna+Luiza+%F0%9F%A7%A0%E2%9C%A8)](https://git.io/typing-svg)
 
 ###
 
