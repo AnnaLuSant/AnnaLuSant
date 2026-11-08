@@ -8,11 +8,12 @@
 ###
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C34BF7&width=435&lines=Seja+bem-vindo%28a%29+ao+meu+GitHub!)](https://git.io/typing-svg)
+
 ##
 
-Por aqui, compartilho um pouco da minha trajetória no mundo da tecnologia, reunindo projetos, experiências, desafios e conhecimentos que adquiro ao longo do caminho.
+<h2>Por aqui, compartilho um pouco da minha trajetória no mundo da tecnologia, reunindo projetos, experiências, desafios e conhecimentos que adquiro ao longo do caminho.</h2>
 
-#
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" />
